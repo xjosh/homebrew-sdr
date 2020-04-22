@@ -2,7 +2,7 @@ require "formula"
 
 class GrDsd < Formula
   homepage "https://github.com/argilo/gr-dsd/tree/maint-3.7"
-  head "https://github.com/argilo/gr-dsd.git"
+  head "https://github.com/argilo/gr-dsd.git" :branch => "maint-3.7"
 
 #  patch :DATA
 
