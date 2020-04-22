@@ -4,7 +4,7 @@ class GrDsd < Formula
   homepage "https://github.com/argilo/gr-dsd"
   head "https://github.com/argilo/gr-dsd.git"
 
-  patch :DATA
+#  patch :DATA
 
   depends_on "cmake" => :build
   depends_on "swig" => :build
